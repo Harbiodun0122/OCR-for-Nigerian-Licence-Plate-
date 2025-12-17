@@ -13,17 +13,13 @@ The model used is **fast-plate-ocr**, a lightweight and fast OCR framework for l
 Data collection
 
       |      
-
 Data Preprocessing and Augmentation
 
       |      
-
 Detection model training
 
       |      
-
 Cropping out detected plate
 
       |      
-
 Plate OCR
