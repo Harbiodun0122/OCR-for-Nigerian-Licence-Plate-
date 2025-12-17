@@ -10,16 +10,4 @@ The *yolov11s.pt* model was used for detection of license plate due to its high 
 The model used is **fast-plate-ocr**, a lightweight and fast OCR framework for license plate text recognition. Click [here](https://ankandrew.github.io/fast-plate-ocr/latest/) for model documentation.
 
 ## Project Workflow
-Data collection
-
-      |      
-Data Preprocessing and Augmentation
-
-      |      
-Detection model training
-
-      |      
-Cropping out detected plate
-
-      |      
-Plate OCR
+Data collection --> Data Preprocessing and Augmentation --> Detection model training --> Cropping out detected plate --> Plate OCR
