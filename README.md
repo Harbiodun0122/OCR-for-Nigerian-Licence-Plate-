@@ -11,3 +11,7 @@ The model used is **fast-plate-ocr**, a lightweight and fast OCR framework for l
 
 ## Project Workflow
 Data collection --> Data Preprocessing and Augmentation --> Detection model training --> Cropping out detected plate --> Plate OCR
+
+## Output from video
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4384cd07-c019-40ef-9724-2dde8b167846" />
+
